@@ -27,7 +27,6 @@ app.post("/completions", async (req, res) => {
                 }
             ],
             model: "gpt-3.5-turbo",
-            stream: true
         });
         res.send(completion.choices[0].message);
     } catch (e) {

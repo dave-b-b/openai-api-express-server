@@ -35,7 +35,7 @@ const Bottom = (props) => {
                 <div id="submit" onClick={getMessages}>➢</div>
             </div>
             <p className="info">
-                Chat GPeTe Mar 14 Version. Free Research Preview
+                This is a basic chat app built in the style of ChatGPT. This app has no associate with OpenAI.
             </p>
         </div>
     )

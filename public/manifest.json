@@ -1,0 +1,8 @@
+{
+  "short_name": "Chat App",
+  "name": "Sample Chat App created by Daveß",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
